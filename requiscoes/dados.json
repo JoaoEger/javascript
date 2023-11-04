@@ -1,0 +1,25 @@
+{
+    "cliente" : {
+        "id" : "2020",
+        "nome" : "José das coves",
+        "endereco" : {
+            "logradouro" : "rua dos caçadores",
+            "numero" : "1234",
+            "complemento" : "ap 101010"
+        }
+    },
+    "pagamentos" : [
+        {
+            "id" : "123",
+            "descricao" : "Curso PHP"
+        },
+        {
+            "id" : "1234",
+            "descricao" : "Curso Javascript"
+        },
+        {
+            "id" : "12345",
+            "descricao" : "Assinatura Café pra DEV"
+        }
+    ]
+}

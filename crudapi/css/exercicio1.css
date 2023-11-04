@@ -1,0 +1,36 @@
+*{
+    font-weight: bold;
+}
+.header{
+    border: 1px solid black;
+    height: 60px;
+    font-size: 30px;
+}
+.escrito{
+    padding: 5px 0;
+}
+.imagem{
+    height: 200px;
+    border: 1px solid black;
+    font-size: 40px;
+    padding: 60px 0;
+}
+.item div{
+    border: 1px solid black;
+    height: 70px;
+    font-size: 20px;
+    color: green;
+    padding: 18px 0;
+}
+.nada div{
+    height: 70px;
+    border: 1px solid black;
+}
+.footer{
+    height: 30vh;
+    border: 1px solid black;
+    font-size: 50px;
+}
+.footer div{
+    padding: 55px 0;
+}

@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+/* navegaçao */
+nav{
+    background-color: rgb(255, 205, 210);
+}
+.navbar-brand{
+padding: 20px;
+margin-left: 5vw;
+}
+.nav-item:hover{
+    font-size: 25px;
+}
+.navbar-nav{
+    margin-left: 34.5vw;
+}
+/* conteudo */
+h1{
+    font-weight: 300;
+    padding: 200px 0;
+}
+#nome,
+#objetivo,
+#cidade,
+#email,
+#apres,
+#qual,
+#forma,
+#exp{
+    border: 0;
+    border-left: 1px solid rgb(235, 235, 235);
+    border-top: 1px solid rgb(235, 235, 235);
+    border-right: 1px solid rgb(235, 235, 235);
+    border-bottom: 1px solid black;
+    border-radius: 0;
+}
+.item{
+    margin-bottom: 20px;
+}
+.butao{
+    background-color: rgb(38, 166, 154);
+    border-radius: 0;
+    color: white;
+}
+/* footer */
+footer{
+    background-color: rgb(229, 57, 53);
+    margin-top: 200px;
+    width: 100%;
+    height:100%;
+}
+.row{
+    color: white;
+}
+ul li{
+    list-style: none;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.email{
+    text-decoration: none;
+    color: white;
+}
+.blu{
+    font-weight: 400;
+}
+.footer2{
+    background-color: rgb(215, 57, 53);
+    width: 100%;
+}
+.footer2 h6{
+    font-weight: 300;
+    font-size: 15px;
+    padding-top: 50px;
+}
+.esquerda,
+.direita,
+.centro{
+    padding: 45px 0;
+}
